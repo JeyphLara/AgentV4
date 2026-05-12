@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+aurora_env/
+
+# Certificados y datos sensibles
+config/certs/
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+.env
+
+# Logs
+*.log
+
+# Browser/profile data
+exito_profile/
+
+# Byte-compiled / optimized / DLL files
+*.pyd
+*.pyo
+*.pyd
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
