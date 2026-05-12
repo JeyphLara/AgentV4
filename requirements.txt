@@ -1,0 +1,44 @@
+# Instalar la SDK de Google para Gemini
+pip install google-genai
+
+# Instalar OpenAI para generación de imágenes
+pip install openai
+
+# Instalar PyAudio para manejar el micrófono y altavoces
+pip install pyaudio
+
+# Instalar python-dotenv para manejar variables de entorno (como tu API Key)
+pip install python-dotenv
+
+# Instalar OpenCV y Pillow para manejar la cámara y procesar imágenes
+pip install opencv-python
+pip install pillow
+
+# Instalar SpeechRecognition para la detección de la palabra de activación
+pip install SpeechRecognition
+
+# Instalar pygame para reproducir sonidos de notificación
+pip install pygame
+
+pip install charset_normalizer
+
+pip install -U gTTS
+
+pip install parsedatetime
+
+pip install pywin32
+
+# Control de volumen del PC (Windows)
+pip install pycaw
+pip install comtypes
+
+# Instalar requests para llamadas HTTP a Ollama
+pip install requests
+
+# Control del TV Android (Android TV Remote)
+pip install androidtvremote2
+pip install cryptography
+
+# Speaker recognition
+pip install speechbrain
+pip install torch

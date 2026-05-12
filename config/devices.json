@@ -1,0 +1,12 @@
+{
+    "tv sala": {
+        "type": "tv",
+        "ip": "192.168.1.12",
+        "protocol": "remoteTv"
+    },
+    "lampara escritorio": {
+        "type": "light",
+        "ip": "192.168.1.20",
+        "protocol": "http"
+    }
+}
