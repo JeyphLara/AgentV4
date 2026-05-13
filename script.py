@@ -33,7 +33,7 @@ DEFAULT_MODE = "camera"
 
 # REEMPLAZA ESTO CON TU NUEVA CLAVE
 client = genai.Client(
-    api_key="AIzaSyDs8bIsC-whnb1PswRnkg3hFEE_gkny1Hw",
+    api_key="",
     http_options={"api_version": "v1beta"},
 )
 
